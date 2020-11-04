@@ -2,7 +2,7 @@ var latitude;
 var longitud;
 var temp;
 var celsius = true;
-var git = true;
+var git = false;
 
 $(document).ready(function() {
   if (!navigator.geolocation){
